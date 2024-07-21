@@ -19,7 +19,8 @@ main{
     background-color: white;
     height: 40px;
     border-left: 4px solid var(--color);
-    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+    width: 94vw;
+    
 }
 .inner-box{
     position: relative;
@@ -52,5 +53,10 @@ main{
     margin-bottom: 20px;
     margin-left: 10px;
     margin-left: 10px;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2);
+}
+.intro-section{
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+    padding-bottom: 3px;
 }
 
